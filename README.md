@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Alejandro Segall  
 
-<!--
-**DanielSegall-web/DanielSegall-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Técnico en Desarrollo Web y Aplicaciones**  
+Apasionado por crear proyectos reales con **Angular, NestJS, Django y Android Studio**.  
+Combino diseño y lógica para construir soluciones completas, desde el backend hasta la interfaz final.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+- 🩺 **Reservas Médicas Web** — Sistema de turnos médicos en línea (Django + Angular)  
+- 📱 **Reservas Médicas Mobile** — App Android con Java  
+- 🍰 **Dulce Matilda** — E-commerce de pastelería (Angular 18)  
+- 🚁 **URI-FPV** — Sitio de servicios y videos FPV (Angular + NestJS)
+
+---
+
+### 🧰 Tecnologías que uso
+- **Frontend:** Angular · TypeScript · HTML · CSS · SCSS  
+- **Backend:** NestJS · Django · Python  
+- **Mobile:** Android Studio · Java  
+- **Base de datos:** PostgreSQL · SQLite  
+- **Herramientas:** Git · GitHub · VS Code  
+
+---
+
+📍 Córdoba, Argentina 🇦🇷  
+📫 **Contacto:** [danielsegall.dev@gmail.com](mailto:danielsegall.dev@gmail.com)  
+🌐 [github.com/DanielSegall-web](https://github.com/DanielSegall-web)
