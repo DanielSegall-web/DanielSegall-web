@@ -24,5 +24,5 @@ Combino diseño y lógica para construir soluciones completas, desde el backend 
 ---
 
 📍 Córdoba, Argentina 🇦🇷  
-📫 **Contacto:** [danielsegall.dev@gmail.com](mailto:danielsegall.dev@gmail.com)  
+📫 **Contacto:** [segalldaniel60@gmail.com](mailto:segalldaniel60@gmail.com)  
 🌐 [github.com/DanielSegall-web](https://github.com/DanielSegall-web)
